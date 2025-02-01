@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @iCobiche
 - 👀 I’m interested in Electronic Design, Embedded Software and 3D Printing
-- 🌱 I’m currently learning about CAN communication protocol and MISRA Coding Guidelines. 
+- 🌱 I’m currently learning about Python up to get a job as Python Developer
 - 📫 How to reach me: 
-  - @iCobiche in instagram
-  - @iCobiche in twitter
-  - @iCobiche in linked-in
+  - @iCobiche on instagram
+  - @iCobiche on x
+  - @iCobiche on tiktok
+  - @iCobiche on linked-in
   - www.jacobocastro.com
+  - www.icobiche.com
+  - Welll, basically iCobiche everywhere
 
 <!---
 iCobiche/iCobiche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
